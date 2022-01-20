@@ -9,7 +9,9 @@
 
 ## :dart: About
 
-Simple API rest with NodeJS using SOLID principles.
+Simple API rest with NodeJS using SOLID principles from Rocketseat Youtube channel.
+
+Video link: https://youtu.be/vAV4Vy4jfkc
 
 ## :rocket: Technologies
 
